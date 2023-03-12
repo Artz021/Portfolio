@@ -341,7 +341,7 @@ header{
 }
 
 .footer-distributed {
-    background-color: #2d2a30;
+    background-color: #1d1d1d;
     box-sizing: border-box;
     width: 100%;
     text-align: left;
@@ -368,7 +368,7 @@ header{
 
 
 .footer-distributed h3 span {
-    color: #e0ac1c;
+    color: #e5383b;
 }
 
 /* Footer links */
@@ -431,7 +431,7 @@ header{
 }
 
 .footer-distributed .footer-center p a {
-    color: #e0ac1c;
+    color: #e5383b;
     text-decoration: none;
     ;
 }
@@ -471,7 +471,7 @@ header{
     width: 35px;
     height: 35px;
     cursor: pointer;
-    background-color: #33383b;
+    background-color: #000000;
     border-radius: 2px;
     font-size: 20px;
     color: #ffffff;
